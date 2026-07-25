@@ -1,0 +1,2 @@
+Quanto é 2 + 2? | 4 | 3 | 5 | 6
+Qual a capital do Brasil? | Brasília | São Paulo | Rio de Janeiro | Salvador
